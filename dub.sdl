@@ -1,0 +1,8 @@
+name "mylib"
+description "A minimal D application."
+authors "dao"
+copyright "Copyright © 2018, dao"
+license "proprietary"
+
+targetType "library"
+
