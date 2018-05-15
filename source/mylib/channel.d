@@ -28,3 +28,8 @@ class DemoChannel: IChannel {
    }
 }
 
+
+void test(IChannel c) {
+   import std.stdio;
+   writeln(c.name);
+}
