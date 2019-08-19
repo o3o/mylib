@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+mylib.so
+mylib.dylib
+mylib.dll
+mylib.a
+mylib.lib
+mylib-test-*
+*.exe
+*.o
+*.obj
+*.lst
+libmylib.a
