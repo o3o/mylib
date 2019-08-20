@@ -1,0 +1,5 @@
+{
+	"packages" : {
+		"mylib" : "https://gitlab.com/o3o_d/mylib.git"
+	}
+}
