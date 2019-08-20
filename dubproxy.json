@@ -1,5 +1,5 @@
 {
 	"packages" : {
-		"mylib" : "https://gitlab.com/o3o_d/mylib.git"
+		"mylib" : "https://github.com/o3o/mylib.git"
 	}
 }
