@@ -9,7 +9,7 @@ interface IChannel {
    /**
     * Nome del canale (tipicamente ip)
     */
-   @property string name();
+   string name();
    ubyte[] send(const(ubyte[]) msg);
    string sendMsg(string msg);
 }
