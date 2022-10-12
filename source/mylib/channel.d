@@ -15,7 +15,7 @@ interface IChannel {
 }
 
 class DemoChannel: IChannel {
-   @property string name() {
+   string name() {
       return "demo";
    }
 
